@@ -5,5 +5,5 @@
 - 
 - Deploy> https://wonderful-fermat-8825f4.netlify.app
 - 
-![Screenshot](https://imgur.com/iU4wtV8)
+![Screenshot](https://i.imgur.com/iU4wtV8.jpg)
 
