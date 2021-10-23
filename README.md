@@ -5,5 +5,5 @@
 - 
 - Deploy> https://wonderful-fermat-8825f4.netlify.app
 - 
-- ![tela de login e cadastro facebook](https://imgur.com/iU4wtV8)
+![Screenshot](https://imgur.com/iU4wtV8)
 
